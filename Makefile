@@ -1,2 +1,2 @@
 all:
-	raco make udptunnel.rkt
+	raco exe udptunnel.rkt
